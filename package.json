@@ -1,0 +1,26 @@
+{
+  "name": "react-native-list-index-bar",
+  "version": "0.1.0",
+  "description": "ListView 的右侧索引栏—— An indexbar of ListView",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eaffy/react-native-list-index-bar.git"
+  },
+  "keywords": [
+    "react-native",
+    "indexbar",
+    "list",
+    "android",
+    "iOS"
+  ],
+  "author": "QiaoYiFei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eaffy/react-native-list-index-bar/issues"
+  },
+  "homepage": "https://github.com/Eaffy/react-native-list-index-bar#readme"
+}
