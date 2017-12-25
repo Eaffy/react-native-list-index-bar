@@ -13,3 +13,5 @@ _scrollToSelectedIndex = (selectedIndex) => {
 
 <RNListIndexBar data={data} onClickIndex={this._scrollToSelectedIndex}/>
 ```
+#### TODO
+![完整功能预览](http://wx1.sinaimg.cn/large/719063cdly1fmssu6l1x1j21h00xqdr4.jpg)
